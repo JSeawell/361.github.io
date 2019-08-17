@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "username",
+      "password": "password",
+      "email": "username@email.com"
+    }
+  ],
+  "immunizations": [
+    {
+      "id": 1,
+      "patientId": 1,
+      "vaccineType": "Tetanus",
+      "vaccineDate": "2015-02-01",
+	    "providerName": "Dr. Pomfrey",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 2,
+      "patientId": 1,
+      "vaccineType": "Polio",
+      "vaccineDate": "2001-01-05",
+	    "providerName": "Dr. Pomfrey",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 3,
+      "patientId": 2,
+      "vaccineType": "Hepatitis A",
+      "vaccineDate": "2018-02-01",
+	    "providerName": "Dr. Pomrey",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 4,
+      "patientId": 2,
+      "vaccineType": "Yellow Fever",
+      "vaccineDate": "2019-01-02",
+	    "providerName": "Dr. House",
+	    "verfied": "no"
+    },
+	  {
+      "id": 5,
+      "patientId": 2,
+      "vaccineType": "Flu Shot",
+      "vaccineDate": "2019-06-01",
+	    "providerName": "Dr. House",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 6,
+      "patientId": 2,
+      "vaccineType": "MMR",
+      "vaccineDate": "2016-02-01",
+	    "providerName": "Dr. Sagan",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 7,
+      "patientId": 1,
+      "vaccineType": "Varicella",
+      "vaccineDate": "2017-02-01",
+	    "providerName": "Dr. Nye",
+	    "verfied": "no"
+    },
+	  {
+      "id": 8,
+      "patientId": 3,
+      "vaccineType": "Flu Shot",
+      "vaccineDate": "2017-02-01",
+	    "providerName": "Dr. Frizzle",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 9,
+      "patientId": 3,
+      "vaccineType": "HPV",
+      "vaccineDate": "2019-01-02",
+	    "providerName": "Dr. Frizzle",
+	    "verfied": "no"
+    },
+	  {
+      "id": 10,
+      "patientId": 3,
+      "vaccineType": "Typhoid",
+      "vaccineDate": "2014-01-06",
+	    "providerName": "Dr. Who",
+	    "verfied": "no"
+    },
+	  {
+      "id": 11,
+      "patientId": 1,
+      "vaccineType": "HPV",
+      "vaccineDate": "2017-01-02",
+	    "providerName": "Dr. House",
+	    "verfied": "yes"
+     },
+	  {
+      "id": 12,
+      "patientId": 2,
+      "vaccineType": "Tetanus",
+      "vaccineDate": "2015-06-07",
+	    "providerName": "Dr. Pomfrey",
+	    "verfied": "no"
+    },
+	  {
+      "id": 13,
+      "patientId": 2,
+      "vaccineType": "Rabies",
+      "vaccineDate": "2016-08-12",
+	    "providerName": "Dr. Hagrid",
+	    "verfied": "yes"
+    },
+	  {
+      "id": 14,
+      "patientId": 3,
+      "vaccineType": "Meningococcal",
+      "vaccineDate": "2015-05-06",
+	    "providerName": "Dr. Brain",
+	    "verfied": "no"
+    },
+	  {
+      "id": 15,
+      "patientId": 1,
+      "vaccineType": "Rabies",
+      "vaccineDate": "2003-08-02",
+	    "providerName": "Dr. Lupin",
+	    "verfied": "no"
+    }
+  ]
+}
