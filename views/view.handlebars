@@ -1,0 +1,22 @@
+<h2>View Records</h2>
+<table>
+<thead>
+	<tr>
+	<th>|Vaccine Type|</th>
+	<th>|Vaccine Date|</th>
+	<th>|Provider Name|</th>
+	<th>|Verified?|</th>
+	</tr>
+</thead>
+	
+	<tbody>
+	{{#each this}}
+	<tr>
+		<td>{{vaccineType}}</td>
+		<td>{{vaccineDate}}</td>
+		<td>{{providerName}}</td>
+		<td>{{verfied}}</td>
+	</tr>
+	{{/each}}
+	</tbody>
+</table> 

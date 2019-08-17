@@ -1,0 +1,31 @@
+<div class="container-fluid">
+  <table class="table">
+    <thead>
+      <tr>
+        <!-- <th scope="col">ID</th> -->
+        <th scope="col">Name</th>
+        <th scope="col">Date of birth</th>
+        <th scope="col">Status1</th>
+        <th scope="col">Status2</th>
+        <th scope="col" style="visibility: hidden">Controls</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      {{#each characters}}
+        <tr>
+          <!-- <th scope="row">{{id}}</th> -->
+          <td><a href="/character/{{id}}">{{name}}</a></td>
+          <td>{{dob}}</td>
+          <td>{{status1}}</td>
+          <td>{{status2}}</td>
+          <td>
+            <a class="btn btn-primary" href="modify-character?id={{id}}" role="button">Modify</a>
+            <a class="btn btn-primary" href="/delete-character/{{id}}">Delete</a>
+          </td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+  <a class="btn btn-primary" href="add-character" role="button">Add a New Character</a>
+</div>
