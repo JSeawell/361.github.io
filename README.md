@@ -3,7 +3,7 @@
 
 > ## How to view:
 > 1. VPN into OSU flip servers  
-> 2. Navigate to URL: (flip1.engr.oregonstate.edu:13130)  
+> 2. Navigate [HERE](flip1.engr.oregonstate.edu:13130)  
 > 3. Log-in using username: `username` and password: `password`
 > 4. Check out *Home Page*, *View Records*, *Request Records Sent*, or *Immunization Survey*.
 
