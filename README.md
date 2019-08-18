@@ -1,7 +1,12 @@
 # Immunization Database
 ## CS-361 Project
 
-The node app will currently run on port 13130. While VPN'd into the OSU flip network, you can visit the database at the following URL: `flip1.engr.oregonstate.edu:13130`.  
+> ## How to view:
+> 1. VPN into OSU flip servers  
+> 2. Navigate to URL: flip1.engr.oregonstate.edu:13130  
+> 3. Log-in using username: `username` and password: `password`
+> 4. Check out *Home Page*, *View Records*, *Request Records Sent*, or *Immunization Survey*.
 
-To log-in to the database, consider using the username: `username`, and the password: `password`.  
-This will log you in to our example user, and take you to the home page where you can view records, requests records sent, or take a survey to suggest immunzations.
+> ## What I learned:
+> 1. This  
+> 2. That
