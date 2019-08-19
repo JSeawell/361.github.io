@@ -1,5 +1,7 @@
 # Immunization Database
-> ## CS-361 (Software Engineering I) Project
+> CS-361 (Software Engineering I) Group Project
+
+A database to store, view, and share immunization records, written in Node
 
 ## How to view:
 > 1. VPN into OSU flip servers  
