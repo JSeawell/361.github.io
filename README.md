@@ -16,5 +16,5 @@
 > 6. Object oriented design  
 > 7. Tesing, evaluation, and validation  
 > 8. Scheduling and cost  
-> 9. Pair & team programming  
+> 9. Pair and team programming  
 > 10. Professionalism
