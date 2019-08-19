@@ -8,5 +8,13 @@
 > 4. Check out *Home Page*, *View Records*, *Request Records Sent*, or *Immunization Survey*.
 
 > ## What I learned:
-> 1. This  
-> 2. That
+> 1. Security development lifecycle 
+> 2. Requirements elicitation and evaluation 
+> 3. Software process models (waterfall, agile, spiral)  
+> 4. Documentation  
+> 5. Diagram notations and tools for modeling  
+> 6. Object oriented design  
+> 7. Tesing, evaluation, and validation  
+> 8. Scheduling and cost  
+> 9. Pair & team programming  
+> 10. Professionalism
