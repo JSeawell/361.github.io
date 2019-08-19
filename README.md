@@ -1,5 +1,5 @@
 # Immunization Database
-## CS-361 Project
+## CS-361 (Software Engineering I) Project
 
 ## How to view:
 > 1. VPN into OSU flip servers  
