@@ -9,7 +9,7 @@ A database to store, view, and share immunization records, written in Node.
 > 3. Log-in using username: `username` and password: `password`
 > 4. Check out *Home Page*, *View Records*, *Request Records Sent*, or *Immunization Survey*.
 
-## What I learned:
+## Concepts learned/used:
 > 1. Security development lifecycle 
 > 2. Requirements elicitation and evaluation 
 > 3. Software process models (waterfall, agile, spiral)  
