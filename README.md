@@ -10,13 +10,16 @@ A database to store, view, and share immunization records, written in Node.
 > 4. Check out *Home Page*, *View Records*, *Request Records Sent*, or *Immunization Survey*.
 
 ## Tech and/or concepts learned/used:
-> 1. Security development lifecycle 
-> 2. Requirements elicitation and evaluation 
-> 3. Software process models (waterfall, agile, spiral)  
-> 4. Documentation  
-> 5. Diagram notations and tools for modeling  
-> 6. Object oriented design  
-> 7. Tesing, evaluation, and validation  
-> 8. Scheduling and cost  
-> 9. Pair and team programming  
-> 10. Professionalism
+> - Node.js
+> - Handlebars
+> - Sessions
+> - Security development lifecycle 
+> - Requirements elicitation and evaluation 
+> - Software process models (waterfall, agile, spiral)  
+> - Documentation  
+> - Diagram notations and tools for modeling  
+> - Object oriented design  
+> - Tesing, evaluation, and validation  
+> - Scheduling and cost  
+> - Pair and team programming  
+> - Professionalism
